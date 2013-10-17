@@ -18,6 +18,6 @@
         "ext-curl": "*"
     },
     "autoload": {
-        "classmap": ["bc-mapi-cache.php", "bc-mapi.php"]
+        "classmap": ["bc-mapi.php"]
     }
 }
